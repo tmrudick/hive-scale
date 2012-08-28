@@ -1,4 +1,4 @@
 hive-scale
 ==========
 
-My attempt at building a somewhat reliable and internet connected bee hive scale for less than $80.
+My attempt at building an internet connected beehive for around $80.
